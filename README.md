@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jnbanks
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently enrolled in UW's full stack Web Development 12 week program
-- 💞️ I’m looking to collaborate on a more effective language learning application
+- 🌱 I have now graduated UW's full stack web development program! What a relief :)
+- 💞️ Now it's time to find a job and build stuff!
 - 📫 How to reach me: email: joku.banks@gmail.com
 
 <!---
