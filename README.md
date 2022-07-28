@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jnbanks
 - 👀 I’m interested in back-end development
-- 🌱 I have now graduated UW's full stack web development program! What a relief :)
+- 🌱 I have now graduated UW's full stack web development program! :)
 - 💞️ Now it's time to find a job and build stuff!
 - 📫 How to reach me: email: joku.banks@gmail.com
 
